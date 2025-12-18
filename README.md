@@ -1,2 +1,7 @@
 # Image-Processing
-This repository is for the Image Processing 2 course at ECAM.
+This repository is for the final project of the Image Processing 2 course at ECAM.
+
+The libraries required for this project are listed in requirements.txt
+
+#Report
+You can find the PDF in the Report section
